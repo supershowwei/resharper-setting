@@ -293,13 +293,7 @@
 	<s:String x:Key="/Default/CodeStyle/Naming/JavaScriptNaming/UserRules/=JS_005FLOCAL_005FVARIABLE/@EntryIndexedValue">&lt;Policy Inspect="True" Prefix="" Suffix="" Style="aaBb" /&gt;</s:String>
 	<s:String x:Key="/Default/CodeStyle/Naming/JavaScriptNaming/UserRules/=JS_005FOBJECT_005FPROPERTY_005FOF_005FFUNCTION/@EntryIndexedValue">&lt;Policy Inspect="True" Prefix="" Suffix="" Style="aaBb" /&gt;</s:String>
 	<s:String x:Key="/Default/CodeStyle/Naming/JavaScriptNaming/UserRules/=JS_005FPARAMETER/@EntryIndexedValue">&lt;Policy Inspect="True" Prefix="" Suffix="" Style="aaBb" /&gt;</s:String>
-	<s:String x:Key="/Default/Environment/ManagedLanguageParameterNameHintsOptions/BlackList/@EntryValue"></s:String>
-	<s:Boolean x:Key="/Default/Environment/ManagedLanguageParameterNameHintsOptions/HideIfMethodIsAnnotatedAsStringFormatMethod/@EntryValue">False</s:Boolean>
-	<s:Boolean x:Key="/Default/Environment/ParameterNameHintsOptions/HideForBuilderLikeMethods/@EntryValue">False</s:Boolean>
-	<s:Boolean x:Key="/Default/Environment/ParameterNameHintsOptions/HideForMethodsWithSameNamedNumberedParameters/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/ParameterNameHintsOptions/HideForNonLiterals/@EntryValue">False</s:Boolean>
-	<s:Boolean x:Key="/Default/Environment/ParameterNameHintsOptions/HideIfIntentionOfArgumentIsClearFromUsage/@EntryValue">False</s:Boolean>
-	<s:Boolean x:Key="/Default/Environment/ParameterNameHintsOptions/HideIfIntentionOfFirstParameterIsClearFromMethodName/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/SettingsMigration/IsMigratorApplied/=JetBrains_002EReSharper_002EPsi_002ECSharp_002ECodeStyle_002ECSharpKeepExistingMigration/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/SettingsMigration/IsMigratorApplied/=JetBrains_002EReSharper_002EPsi_002ECSharp_002ECodeStyle_002ECSharpPlaceEmbeddedOnSameLineMigration/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/SettingsMigration/IsMigratorApplied/=JetBrains_002EReSharper_002EPsi_002ECSharp_002ECodeStyle_002ECSharpUseContinuousIndentInsideBracesMigration/@EntryIndexedValue">True</s:Boolean>
